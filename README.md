@@ -40,6 +40,4 @@ Console.WriteLine("Currently {0} bus line groups with \"GOOD SERVICE\"", goodSer
 //Displays "Currently 4 bus line groups with "GOOD SERVICE""
 ```
 
-Available groups available through this class are: `BT`, `Bus`, `LIRR`, `MetroNorth` and `Subway`.  
 
-I am planning on getting the same process used for subway (per line status versus per group) applied to the other groups in a later release.
